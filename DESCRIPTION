@@ -2,8 +2,8 @@ Type: Package
 Package: savvyr
 Title: Survival Analysis for AdVerse Events with VarYing Follow-Up
         Times
-Version: 0.1.0
-Date: 2024-02-20
+Version: 0.1.1
+Date: 2024-06-06
 Authors@R: c(
     person("Thomas", "Kuenzel", email = "thomas.kuenzel@roche.com", role = c("aut", "cre")),
     person("Kaspar", "Rufibach", email = "kaspar.rufibach@roche.com", role = "aut"),
@@ -38,7 +38,7 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-02-20 09:44:50 UTC; sabanesd
+Packaged: 2024-06-10 09:24:33 UTC; kuenzelt
 Author: Thomas Kuenzel [aut, cre],
   Kaspar Rufibach [aut],
   Regina Stegherr [aut],
@@ -47,4 +47,4 @@ Author: Thomas Kuenzel [aut, cre],
   Universität Ulm [cph, fnd]
 Maintainer: Thomas Kuenzel <thomas.kuenzel@roche.com>
 Repository: CRAN
-Date/Publication: 2024-02-20 21:10:06 UTC
+Date/Publication: 2024-06-10 09:50:02 UTC
